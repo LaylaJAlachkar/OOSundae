@@ -1,4 +1,5 @@
-Directions for campers
+Directions for campers                                                                  
+
 	-Open Command Prompt
 	-type the following command
 		cd "PATH TO LOCATION WHERE FOLDER IS UNZIPPED"
