@@ -6,3 +6,4 @@ Directions for campers
 		javac OOSundae.javac
 	-run code 
 		java OOSundae
+Build a Sundae!
